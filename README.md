@@ -75,8 +75,10 @@
     <details >
      <summary>
       <h3>&nbsp;저기어때(숙박 예약)</h3>
-      <img alt='javascript' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+      <img alt='javascript' src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/2주-7952B3?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/6인-DB7093?style=flat-square&logoColor=white"/>
      </summary>
      <div>
       <a href="https://github.com/YesunPark/justcode-6-2nd-team7-front">
@@ -100,8 +102,10 @@
     <details>
      <summary>
       <h3>&nbsp;코딩 레스토랑(식품 구매)</h3>
-      <img alt='javascript' src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+      <img alt='javascript' src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
       <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/2주-7952B3?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/6인-DB7093?style=flat-square&logoColor=white"/>
      </summary>
      <div >
       <a href="https://github.com/YesunPark/justcode-6-1st-coding-restaurant-front">
@@ -125,8 +129,9 @@
     <details >
      <summary>
       <h3>&nbsp;Lemoni 투두리스트</h3>
-      <img alt='typescript' src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+      <img alt='typescript' src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
       <img alt="react" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+      <img src="https://img.shields.io/badge/1주-7952B3?style=flat-square&logoColor=white"/>
      </summary>
      <div >
       <a href="https://github.com/YesunPark/Lemoni-Todo-list">
