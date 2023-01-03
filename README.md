@@ -2,7 +2,7 @@
 
  <h1>Frontend-Developer 박예선</h1>
  
- <a href="https://velog.io/@lynn080"><img alt="gmail-link" height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&&logoColor=white"/></a>
+ <a href="mailto:lynn08082@gmail.com"><img alt="gmail-link" height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&&logoColor=white"/></a>
  <a href="https://velog.io/@lynn080"><img alt="vlog-link" height="25" src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
 효율적이고 정돈된 프로세스로 일하려고 노력합니다.
