@@ -5,10 +5,9 @@
  <a href="mailto:lynn08082@gmail.com"><img alt="gmail-link" height="25" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&&logoColor=white"/></a>
  <a href="https://velog.io/@lynn080"><img alt="vlog-link" height="25" src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
 
-효율적이고 정돈된 프로세스로 일하려고 노력합니다.
- 
-그 과정에서 혼자보단 함께하는 것을 선호합니다.\
-함께함으로써 서로 긍정적인 영향을 받아 시너지를 낼 수 있다고 믿습니다.
+효율적이고 정돈된 프로세스로 일하려고 노력합니다.\
+ 그 과정에서 혼자보단 함께하는 것을 선호합니다.\
+ 함께함으로써 서로 긍정적인 영향을 받아 시너지를 낼 수 있다고 믿습니다.
  
 `Better`에 대해 생각하며 그를 위한 도전을 두려워하지 않습니다.
  
