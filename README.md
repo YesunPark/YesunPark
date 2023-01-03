@@ -59,15 +59,16 @@
   </tr>
 </table>
  
-<h2>Project</h2>
+
+ <br/>
  <br/>
  <table align="center"> 
   <tr>
    <th>
-    team project
+    <h3>Team Project</h3>
    </th>
    <th>
-    individual project
+    <h3>Individual Project</h3>
    </th>
    </tr>
   <tr align="center">
