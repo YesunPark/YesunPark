@@ -23,8 +23,10 @@
      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/JWT-97979A?style=flat-square&logo=&logoColor=white" height=25px />
+     <br/>
      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height=25px />
      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white" height=25px />
+     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" height=25px />
     </td>
   </tr>
 
